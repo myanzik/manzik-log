@@ -20,7 +20,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 **👀 SEO friendly**
 
-- Dynamically generates OG IMAGEs (thumbnails!) for posts. ([og-image-korean](https://github.com/morethanmin/og-image-korean)).
+- Dynamically generates OG IMAGEs (thumbnails!)
 - Dynamically creates sitemap for posts.
 
 **🤖 Customisable and Supports various plugin through CONFIG**
@@ -31,8 +31,8 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 ## Getting Started
 
 1. Star this repo.
-2. [Fork](https://github.com/morethanmin/morethan-log/fork) the repo to your Profile.
-3. Duplicate [this Notion template](https://morethanmin.notion.site/12c38b5f459d4eb9a759f92fba6cea36?v=2e7962408e3842b2a1a801bf3546edda), and Share to Web.
+2. Fork the repo to your Profile.
+3. Duplicate and Share to Web.
 4. Copy the Web Link and keep note of the Notion Page Id from the Link which will be in this format [username.notion.site/`NOTION_PAGE_ID`?v=`VERSION_ID`]. 
 5. Clone your forked repo and then customize `site.config.js` based on your preference.
 6. Deploy on Vercel, with the following environment variables.
@@ -103,7 +103,7 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
    A3: Please set the revalidateTime in site.config.js and observe how long it takes to update.
    
    Q4: What should be entered for NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID and NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION in site.config.js?
-   A4: You can check https://github.com/morethanmin/morethan-log/issues/203. Please note that updates may take some time to take effect after setting.
+
 
 If you encounter any other issues, please feel free to add them to the GitHub README to assist future users. We look forward to your contributions!
 
@@ -119,10 +119,6 @@ Check out the [Contributing Guide](.github/CONTRIBUTING.md).
 Contributors template:
 <a href="https://github.com/{username}"><img src="{src}" width="50px" alt="{username}" /></a>&nbsp;&nbsp;
 -->
-
-<a href="https://github.com/morethanmin/morethan-log/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=morethanmin/morethan-log" />
-</a>
 
 ## Support
 

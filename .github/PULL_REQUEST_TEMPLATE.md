@@ -13,11 +13,6 @@
 
 <!-- 3. Add link to the Github Issue for which these changes are made -->
 
-## Related tickets
-
-https://github.com/morethanmin/morethan-log/issues/XX
-
-<!-- 4. Make sure the following actions are checked before finalising your PR -->
 
 ## PR Checklist
 
